@@ -99,3 +99,5 @@ Para validar o sistema em um cenário de produção real, dígitos foram escrito
 
 ---
 *Projeto desenvolvido como critério de avaliação acadêmica para consolidação de conceitos de pipelines de Machine Learning e processamento digital de imagens.*
+
+Link para video de apresentação: https://youtu.be/i11eZK2f-hY
